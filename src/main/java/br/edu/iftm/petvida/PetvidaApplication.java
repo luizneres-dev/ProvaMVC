@@ -45,3 +45,4 @@ public class PetvidaApplication implements CommandLineRunner {
         animalRepository.salvar(meuAnimal);
     }
 }
+
